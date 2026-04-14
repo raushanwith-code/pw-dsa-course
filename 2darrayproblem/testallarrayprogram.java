@@ -19,6 +19,8 @@ class testallarrayprogram{
       }
     }
 
+    System.out.println("Your final rsult is:-");
+
     for(int i=0; i<arr.length; i++){
 
        System.out.print(arr[i]+ " ");
