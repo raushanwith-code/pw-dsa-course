@@ -1,4 +1,4 @@
-
+// Linkedlist node creation
 
 class Node{
 
