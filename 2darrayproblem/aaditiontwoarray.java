@@ -17,6 +17,8 @@ public class aaditiontwoarray {
             }
             
         }
+
+        System.out.println("Enetr Your Array Element:-";
          for (int i = 0; i < brr.length; i++) {
 
             for (int j = 0; j < brr.length; j++) {
